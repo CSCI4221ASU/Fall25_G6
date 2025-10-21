@@ -25,3 +25,47 @@ Group 6:   Francesco Onumah, Jalesa Drakes, Eric Mcclinton
             this repsitory will be used for coursework for CSCI 4221 Software Engineering.
             For the first project we will provide a description of ourselves and our roles in the project. The project will have three team members. The product to be developed will be described below.
             After completion we will committ the changes back to GitHub. For submission, we will go to Georgia View submission folder for project 1 and paste the link to our repository.
+
+
+## Project 2
+
+   Please complete your project 2, especially the PBI and prototypes. For sample, please visit [Grou 1](https://github.com/CSCI4221ASU/Fall25_G1).
+
+  a. Francesco Onumah
+
+   Minutes:
+
+      No repository provided
+      
+   PBI 
+
+      No repository provided
+
+   Prototypes
+
+      No repository provided
+
+  b. Jalesa Drakes
+
+   Minutes:
+
+      No repository provided
+
+   PBI 
+      No repository provided
+
+   Prototypes
+
+      No repository provided
+  c. Eric Mcclinton
+
+     Minutes:
+
+         No repository provided
+      
+     PBI 
+         No repository provided
+
+     Prototypes
+
+         No repository provided
